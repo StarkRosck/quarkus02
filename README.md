@@ -106,13 +106,3 @@ Com `quarkus-opentelemetry` você já pode rastrear requisições via OTEL Colle
 ```properties
 %prod.quarkus.opentelemetry.enabled=true
 ```
-
----
-
-## 📃 Licença
-
-MIT - use, modifique e contribua!
-
----
-
-Caso precise, posso gerar o `docker-compose.yml`, adicionar Swagger UI customizada ou gerar scripts SQL de migração. É só pedir! 🚀
